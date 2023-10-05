@@ -2,4 +2,4 @@ optConfig:
   disableRepoOverride: true
   optOutStrategy: true
   optOutRepos:
-  - device-tco-calculator
+    - device-tco-calculator
