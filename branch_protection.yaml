@@ -2,4 +2,6 @@ optConfig:
   optOutStrategy: true
   # TODO: Review policy
   optOutPrivateRepos: true
+  optOutRepos:
+    - device-tco-calculator
 action: issue
